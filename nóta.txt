@@ -19,25 +19,36 @@ greim
 naimhde cairde codarsnacht - íoróin
 
 P3.
-breitheamh
+#breitheamh
 #oileán - áilleacht, stair, srl.
 cairde is naimhde - cairde ormsa coimeádaithe is
 cimí coimeádaí 3 an chaint uaidh liom 
 
-rá1
-'A chime 16,' ar seisean. 
-Níl cead ainm nó sloinneadh
+P4.c
+'16,' ar seisean. 
+cead ainm/sloinneadh
 an ghuí
 triail
 bású
 #róstadh mar rogha ceart do lucht ár gcreidimh
 
-
-
-
-
-
-
+P5.
+róstadh breithimh 1
+pionós - béile gan róstadh
+trealamh
+P6.c
+coireanna chime 16
+P7.
+Coimeádaí 3 : cruth: tóin srl.
+P8.		
+athair: creideamh/fealsúnacht
+#an corp mar scáthán anama/croí
+#cúram agus comhairle
+#rúndacht: caint/scríobh
+P9.
+An scoilt sa liobar.
+P10.
+rud a rinne mé ar m'athair
 
 
 
