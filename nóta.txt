@@ -1,54 +1,59 @@
 Doc-n1.
 marc 15-10-2017 
-tús eile
+tÃºs eile
 
-Buidéal ar Iarraidh
-Nótaí
+BuidÃ©al ar Iarraidh
+NÃ³taÃ­
 
 P1. 
 cead
 breitheamh
-cimí agus coimheádaithe
-#uimhir orthu - coimheádaithe de réir oird 
-#róstadh é - gan triail.
+cimÃ­ agus coimheÃ¡daithe
+#uimhir orthu - coimheÃ¡daithe de rÃ©ir oird 
+#rÃ³stadh Ã© - gan triail.
 
 P2.
-eolas in iúl
-breitheamh - agus a réamhtheachtaí
+eolas in iÃºl
+breitheamh - agus a rÃ©amhtheachtaÃ­
 greim
-naimhde cairde codarsnacht - íoróin
+naimhde cairde codarsnacht - Ã­orÃ³in
 
 P3.
 #breitheamh
-#oileán - áilleacht, stair, srl.
-cairde is naimhde - cairde ormsa coimeádaithe is
-cimí coimeádaí 3 an chaint uaidh liom 
+#oileÃ¡n - Ã¡illeacht, stair, srl.
+cairde is naimhde - cairde ormsa coimeÃ¡daithe is
+cimÃ­ coimeÃ¡daÃ­ 3 an chaint uaidh liom 
 
 P4.c
 '16,' ar seisean. 
+#16 cÃ³dÃº:1:cime:6:ord:6Ãº 1 [?]
 cead ainm/sloinneadh
-an ghuí
+an ghuÃ­
 triail
-bású
-#róstadh mar rogha ceart do lucht ár gcreidimh
+bÃ¡sÃº
+#rÃ³stadh mar rogha ceart do lucht Ã¡r gcreidimh
 
 P5.
-róstadh breithimh 1
-pionós - béile gan róstadh
+rÃ³stadh breithimh 1
+pionÃ³s - bÃ©ile gan rÃ³stadh
 trealamh
 P6.c
-coireanna chime 16
+coireanna chime 16/rÃºin le scileadh
 P7.
-Coimeádaí 3 : cruth: tóin srl.
+CoimeÃ¡daÃ­ 3 : cruth: tÃ³in srl.
 P8.		
-athair: creideamh/fealsúnacht
-#an corp mar scáthán anama/croí
-#cúram agus comhairle
-#rúndacht: caint/scríobh
+athair: creideamh/fealsÃºnacht
+#an corp mar scÃ¡thÃ¡n anama/croÃ­
+#cÃºram agus comhairle
+#rÃºndacht: caint/scrÃ­obh
 P9.
 An scoilt sa liobar.
 P10.
-rud a rinne mé ar m'athair
+rud a rinne mÃ© ar m'athair/rÃºn a
+#cÃº ar cÃ³isir - 
+#cÃº gan ceadÃºnas/a bhÃ¡sÃº
+#dÃ¡n a fuair duais/a fhoilsiÃº /nuachtÃ¡n
+#
 
 
 
