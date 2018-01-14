@@ -7,6 +7,7 @@ BUIDÉAL 1
 Súil le Breitheamh thar uisce
 
 Oíche 1
+Cead Scríobh
 P1.
 Fuarthas cead sa deireadh an cuntas seo a scríobh
 a fhad is atáthar ag fanacht le bád an bhreithimh.
@@ -24,26 +25,26 @@ gur diúltaíodh an cead ón chéad iarratas go dtí
 inniu; agus ní cead gan choinníoll a fuarthas, ár
 ndóighe. Cuid de na coinníollacha seo, luafar iad
 de réir mar nochtann a dtábhacht sa scéal. 
-
+P2
 Ar oileán locha atá mé. Ní ceadmhach a ainm a lua
-- sin ceann beag amháin de na coinníollacha.  Níl
-ar an oileán seo ach an dá dhream: cimí agus
+- sin ceann amháin de na coinníollacha.  Níl ar an 
+oileán seo ach an dá dhream: cimí agus
 coimheádaithe.  Is cuairteoir an breitheamh, an
-tráth a dtiocfaidh sé a shocrú mo chinniúna. Is
-féidir tagairt do chime nó do choimheádaí de réir
-uimhreach. Coinníonn an cime a uimhir a fhad lena
-bhás nó lena imeacht ón oileán. Is mise Cime 16.
-
+tráth a dtiocfaidh sé. Tagraítear do chime nó do
+choimheádaí de réir uimhreach. Coinníonn an cime a
+uimhir a fhad lena imeacht ón oileán nó ón tsaol.
+Is mise Cime 16.
+P3
 Chan fód míofar mar phríosún é an t-oileán seo;
 chan eadh ach a ghlanmhalairt. Tá cothú súile agus
-machnaimh don fhile air, ceardaí nach bhfuil in
-easnamh againn. Fód mór, fada, leathan, méith, atá
-ann agus chan carraig chúng liath mar chuid acu.
-File mé féin de réir mo bharúla lá de mo laetha
-agus dá gcuirfinn an cloigeann sin ar ais orm
-féin, ní bheinn gan ábhar dáin, go háirithe le
-linn laetha deireanacha an tsamhraidh ghalánta seo.
-
+machnaimh don fhile air. Oileán mór, fada, leathan,
+méith, atá ann agus chan carraig chúng liath mar
+chuid eile acu.  File mé féin de réir mo bharúla
+lá de mo laetha agus dá gcuirfinn an cloigeann sin
+ar ais orm féin, ní bheinn gan ábhar dáin, go
+háirithe le linn laetha deireanacha an tsamhraidh
+aoibhinn seo.
+P4
 Tá crainn arda agus sruthán beag ann. Tá trá gheal
 ghainimh ar an taobh theas agus trá ceolmhar
 doirlinge ar an taobh thoir.  Tá idir raithneach,
@@ -53,53 +54,99 @@ saothar na sean-saor é, ach an oiread, agus
 ballóga botháin agus caisleáin bhig le feiceáil as
 measc an fhásra thall agus abhus. I measc na
 gcrann ard ar an taobh thuaidh den oileán a tógadh
-pubaill na gcimí agus na gcoimheádaí. Tig uisce an
+pubaill na gcimí agus na gcoimheádaí,as súile namhad 
+a mbeadh a gcoimheád á dhíriú ón spéir.  Tig uisce an
 tsrutháin isteach ón loch sna crainn seo fosta.
 Leathnaíodh a bhéal beagán a ligean báid bhig
-isteach; sin an bealach a dtáinig mé féin isteach,
+isteach; sin an bealach ar tugadh mé féin isteach,
 mí ó shin; agus sin an áit a raibh súil le bád an
-chéad bhreithimh; níor éirigh leis teacht chomh
-fada sin; agus is fríd an bhéal sin a thiocfas an
-breitheamh a bhfuiltear ag fanacht leis anois.
+chéad bhreithimh - níor éirigh leis teacht chomh
+fada sin - agus is fríd an bhéal sin a thiocfas a
+chomharba.
 
-P2.
-Moladh domh gur cheart guí níos mó foighne agus
-trócaire a bheith ag an bhreitheamh úr thar mar a
-bhí ag an fhear roimhe. Guí a iarraidh ormsa, fear
-nár scaoil uaidh cogar osnádúrtha ón oíche tigh
-Agaistín ar cuireadh tús le Cuallacht Bhricreann!  
+P5.
+Moltar domh guí níos mó foighde agus trócaire a
+bheith ag an bhreitheamh úr thar mar a bhí ag fear
+a chúraim roimhe. Guí a iarraidh ormsa! fear nár
+scaoil uaidh cogar osnádúrtha ón oíche tigh
+Agaistín nuair a cuireadh tús le Cuallacht Bhricreann!  
+Cuirfidh mé síos ar an dóigh ar cuireadh an tús
+sin léi níos faide ar aghaidh sa scéal.
 
-Ar a bhealach fríd an choillidh a bhí an chéad
-bhreitheamh nuair a fuair an namhaid greim air.
-Níor éirigh leis teacht slán a dh'éisteacht mo
-cháis, in ainneoin nárbh é mo ghuí nach n-éireodh.
-Mar sin féin, ba bheag mo thrua dó, iar gcluinstin
-domh fána cheangailte ag an namhaid. 
+P6.  Ar a bhealach fríd an choillidh a bhí an
+chéad bhreitheamh nuair a fuair an namhaid greim
+air.  Níor éirigh leis teacht slán a dh'éisteacht
+mo cháis, in ainneoin nárbh é mo ghuí nach
+n-éireodh.  Mar sin féin, ba bheag mo thrua dó,
+iar gcluinstin domh fána cheangailte ag an
+namhaid agus a róstadh acu. 
 
-P3. 
+P7. 
 Chan naimhde ach 'cairde' a fuair greim ormsa,
 agus bhí sé de thrócaire acu cime a dhéanamh asam
-ar an fhód seo sa loch. Ba dhuine de na cairde sin
-an té ba mhó a mhol an ghuí domh - coimheádaí a 3.
+ar an oileán seo sa loch. Ba dhuine de na cairde sin
+an té ba thúisce a mhol an ghuí domh - Coimheádaí a 3.
+Ó tharlaíonn gan cead choíche a bheith aige an
+scríbhinn seo a léamh - má tá léamh aige - ní
+miste tús cróineolaíoch mo scéil a leagan san lá a
+dtáinig sé fá mo dhéin ag Linn na mBreac, rud a
+dhéanfas mé an chéad oíche eile.
 
-P4.c
+Oíche 2
+Linn na mBreac
+P1
+Caithfidh na cimí obair anseo, gach lá beagnach.
+Ní áirítear an obair phinn seo ina hobair, ar
+ndóighe, ach fuarthas cead a dhéanamh mar
+chaitheamh aimsire le linn chuid de na hoícheanta.
+Baineann ár n-obair lae le cothú le cothabháil
+agus le 'cosaint'. An obair is gá a dhéanamh fá
+Linn na mBreac, baineann sí le cothú: ábhar bídh
+iad na bric, ár ndóighe. 
+P2
+Le tréimhse fhada de bhlianta, ní dhearna mé féin
+béile de chomh-chréatúr ar bith de mo chuid, idir
+lucht na gcos, lucht na n-eití, agus lucht na
+gcleití, ach anseo ní fhágann an cleachtas
+itheacháin sin nach mbíonn orm obair ar an linn a
+dhéanamh a chuidíonn le soláthar na mbráithre
+briciúil do na béil a bhfuil dúil mhór acu ina
+mblas. Agus admhaím dúil agam féin san obair sin.
+Níorbh fhada liom riamh lá ar an linn, agus is mór
+mo thaitneamh i gcuideachta na mbreac.
+P3.
+Stócach seiftiúil é, Coimheádaí 1, agus ba é féin
+a thionscain an linn. 'Baineann róchontúirt le
+marbh iasc ar an loch le linn sholas an lae, agus
+neadacha go leor ag an namhaid sa choillidh mhór,
+ar an bhruach thall, fá leath-mhíle uainn.' ar sé.
+'Déantar san oíche é, corroíche!  Beirtear ar na
+bric láidre óga inár n-eangacha fada. Déantar linn
+ar an tsruthán mar chró dóibh. Cothaítear ansin le
+cuileoga agus cuiteoga iad. Bíodh siad mar bhéilí
+in am trátha ansin de réir mar a thiocfas siad i
+méid.' Bhuel, samhlaím a leithéid de chaint uaidh,
+ar scor ar bith. Níl cead aigesean seo a léamh ach
+oiread le Coimheádaí 3, an té, mar a dúirt mé, a 
+chéadmhol an ghuí údaí sin domh, agus mé ag obair
+ar an linn i m'aonar. 
+
 'A chime 16,' ar seisean. Níl cead ainm nó
 sloinneadh a úsáid ar an oileán. 'Bíodh sé ina
-ghuí dhíograise uait, a chara, gur breitheamh
+ghuí dhíograise uait, a Mhiceo, gur breitheamh
 trócaireach a chuirfí in áit an fhir a bhfuarthas
 greim air agus a ndearnadh a róstadh, an fear
-bocht.' 
+bocht. Mo sheacht mallacht orthu siúd a chuir síos
+an tine.' 
 
 P5.
 Róstadh Breitheamh 1 gan triail, gan amhras - nár
 bhlais muid an boladh lena linn; ach is measa an
 méid atá i ndán do Chime a 16 i ndiaidh a
-thrialach. Dhírigh Coimeádaí a Trí a bhata ramhar
+thrialach. Dhírigh Coimeádaí 3 a bhata ramhar
 draighneáin i dtreo an dornáin bheag scamall bán a
 bhí sa spéir ghlan i bhfad os cionn ollghruaig na
-gcrann.
-
-P6.c
+gcrann ar an bhruach thall den loch. Lean air.
 'Is maith is eol duit, a Chime a 16, chomh holc
 le do chuid coireanna.'
 P7.
